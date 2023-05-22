@@ -11,7 +11,7 @@ public class AtmApp {
         System.out.println("neler oluyor bu hayatta");
         System.out.println("bazı değişikliler yaptım ancak commit lemedim");
         System.out.println("abovvvvvvvvvvv");
-        System.out.println("");
+        System.out.println("yeni");
     }
 
 }
