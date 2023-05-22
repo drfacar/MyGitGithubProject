@@ -7,6 +7,8 @@ public class AtmApp {
         //version4
         System.out.println("Git i öğrenmek çok kolay");
         System.out.println("fatih branch i yeni bir özellik ekledi");
+        //fth3
+        System.out.println("neler oluyor bu hayatta");
     }
 
 }
