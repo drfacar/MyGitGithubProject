@@ -1,4 +1,7 @@
 public class Account {
-    //fatih branch i
-    public String name;
-}
+
+        //fatih branch i
+        public String name;
+    }
+
+

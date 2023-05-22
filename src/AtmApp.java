@@ -7,4 +7,5 @@ public class AtmApp {
         //version4
         System.out.println("Git i öğrenmek çok kolay");
     }
+
 }
