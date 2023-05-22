@@ -9,6 +9,8 @@ public class AtmApp {
         System.out.println("fatih branch i yeni bir özellik ekledi");
         //fth3
         System.out.println("neler oluyor bu hayatta");
+        System.out.println("bazı değişikliler yaptım ancak commit lemedim");
+        System.out.println("abovvvvvvvvvvv");
     }
 
 }
